@@ -1,0 +1,9 @@
+## Problema
+
+La Tienda Aurelion no tiene implementado un sistema que permita saber de forma automatica cuales son los productos mas vendidos
+y cuales presentan una baja rotacion. Esta falta de informacion dificulta la toma de decisiones respecto a la gestion del stock y
+la implementacion de estrategias de descuento/promociones.
+Como consecuencia, algunos productos permanecen en inventario durante largos periodos (generando costos de almacenamiento), mientras
+que otros se agotan rapidamente sin aprovechar su potencial comercial
+
+## Solucion

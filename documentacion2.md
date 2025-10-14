@@ -62,6 +62,9 @@ En esta etapa, el programa funciona como un visor interactivo de la documentaci�
 que el usuario obtenga rápidamente la información clave del proyecto desde la terminal.
 
 ### Contenido accesible desde el menu
-
+Mostrar problema y solucion
+Mostrar pseudocodigo
+Mostrar datasets utilizados
+Mostrar diagrama de flujo
 
 ## Sugerencias y mejoras aplicadas con Copilot

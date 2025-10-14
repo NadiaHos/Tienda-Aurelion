@@ -61,4 +61,7 @@ Base que representa una Tienda, con catálogo de productos, registro de clientes
 En esta etapa, el programa funciona como un visor interactivo de la documentación, para
 que el usuario obtenga rápidamente la información clave del proyecto desde la terminal.
 
+### Contenido accesible desde el menu
+
+
 ## Sugerencias y mejoras aplicadas con Copilot
